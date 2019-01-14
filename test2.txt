@@ -1,5 +1,9 @@
 2nd change made
+<<<<<<< HEAD
 3rd change
+=======
+3rd change 
+>>>>>>> 56ff34bdc27e6fe47a63a3a0211ff28882de1b22
 
  to check if i dont wrirte the scritp manually in build section.will the changes be shown in jenkins.
 ***** 1st change 
